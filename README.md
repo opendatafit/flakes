@@ -1,4 +1,14 @@
-# opendata.fit ecosystem nix flakes
+#opendata.fit ecosystem nix flakes
+
+## frontend flake
+
+Usage in an ```.envrc```:
+
+```
+use flake "github:opendatafit/flakes?dir=frontend" --no-write-lock-file
+```
+
+## backend flake
 
 ## Development environment
 
