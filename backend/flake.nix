@@ -21,6 +21,7 @@
           pkgs.python310
           pkgs.python310.pkgs.pip
           pkgs.python310.pkgs.python-mimeparse
+          pkgs.python310.pkgs.passlib
         ];
       };
     });
