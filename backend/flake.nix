@@ -20,6 +20,7 @@
           # Set the major version of Node.js
           pkgs.python310
           pkgs.python310.pkgs.pip
+          pkgs.python310.pkgs.mimeparse
         ];
       };
     });
