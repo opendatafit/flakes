@@ -1,4 +1,4 @@
-#opendata.fit ecosystem nix flakes
+# opendata.fit ecosystem nix flakes
 
 ## frontend flake
 
